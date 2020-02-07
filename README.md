@@ -8,4 +8,4 @@ This code allows you to keep track of notes on your laptop.
  * Notes show up on left hand side of the screen
  * User can delete notes if necessary
 
-![Working Gif](gif.gif)
+![Working Gif](https://github.com/lisaostman/notetaker/blob/master/Develop/gif.gif)
