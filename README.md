@@ -7,3 +7,5 @@ This code allows you to keep track of notes on your laptop.
  * User can write and title their own notes
  * Notes show up on left hand side of the screen
  * User can delete notes if necessary
+
+![Working Gif](https://github.com/lisaostman/notetaker/blob/master/Develop/gif.gif)
